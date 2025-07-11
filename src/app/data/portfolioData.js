@@ -1,6 +1,6 @@
 export const portfolioData = {
   profile: {
-    name: "이수아",
+    name: "유예지",
     imageUrl: "/profile.png", // 없을 시 방패 아이콘 사용
     tagline: "보안 전문가를 향한 여정",
     subtitle: "실무 중심의 보안 역량과 문제 해결 능력을 갖춘 인재",
