@@ -16,10 +16,10 @@ export const portfolioData = {
     },
     experience: [
       {
-        title: "Best of the Best (BoB) 13기",
-        organization: "한국정보기술연구원(KITRI)",
+        title: "학부연구생",
+        organization: "성신여대 SSS 랩",
         period: "2024.07 - 2025.02",
-        track: "취약점 분석 트랙"
+        track: "AI 모델 기반 보안 취약점 탐지",
       }
     ],
     contact: {
