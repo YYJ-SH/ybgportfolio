@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛡️ 융보공 보안 포트폴리오 템플릿
 
-## Getting Started
+성신여자대학교 융합보안공학과 학술동아리 융보공 학생들을 위한 포트폴리오 웹사이트 템플릿입니다.
 
-First, run the development server:
+## 🚀 빠른 시작
 
+### 1. 프로젝트 설치
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. 브라우저에서 확인
+http://localhost:3000
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📝 커스터마이징
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 개인 정보 수정
+`src/app/data/portfolioData.js` 파일에서 모든 개인 정보를 수정할 수 있습니다.
 
-## Learn More
+### 이미지 추가
+모든 이미지 파일은 `public` 폴더에 넣어주세요.
 
-To learn more about Next.js, take a look at the following resources:
+## 📚 상세 가이드
+자세한 커스터마이징 방법은 [가이드 문서](./GUIDE.md)를 참고하세요.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 배포
+Vercel을 통해 무료로 배포할 수 있습니다.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ 기술 스택
+- Next.js 15
+- React 19
+- Tailwind CSS 4
+- Lucide React
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📞 문의
+궁금한 점이 있으면 융보공 동아리에 문의해주세요!
