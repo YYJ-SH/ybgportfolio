@@ -136,7 +136,7 @@ export const portfolioData = {
       description: "PortSwigger 실습을 통해 최신 AI 기술의 보안 위협인 Prompt Injection 공격을 직접 수행하고 방어의 필요성을 체감했습니다.",
       materials: [
         { name: "세미나 자료", url: "/NINE.pdf" },
-        { name: "PortSwigger 실습 기록", url: "https://creamerburger.tistory.com/llm-security" }
+        { name: "PortSwigger 실습 기록", url: "https://creamerburger.tistory.com/82" }
       ]
     },
     {
@@ -256,7 +256,7 @@ export const portfolioData = {
       title: "SQL Injection 취약점 심층 분석: Union-based 공격부터 Blind 기법까지",
       thumbnail: "/blogtestimage.png",
       description: "OWASP Top 10에 포함된 SQL Injection 취약점의 다양한 공격 기법과 실제 익스플로잇 사례를 분석합니다.",
-      url: "https://creamerburger.tistory.com/sql-injection-analysis",
+      url: "https://creamerburger.tistory.com/82",
       date: "2024. 11. 28.",
       tags: ["Web Security", "SQL Injection", "OWASP"]
     },
@@ -283,7 +283,7 @@ export const portfolioData = {
       title: "LLM 보안 위협과 프롬프트 인젝션 공격 분석",
       thumbnail: "/blogtestimage.png",
       description: "PortSwigger 실습을 통해 배운 LLM 보안 위협과 대응 방안을 다룹니다.",
-      url: "https://creamerburger.tistory.com/llm-security",
+      url: "https://creamerburger.tistory.com/82",
       date: "2024. 10. 28.",
       tags: ["LLM", "AI Security", "Prompt Injection"]
     },
