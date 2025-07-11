@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { ChevronDown, Github, Linkedin, Mail, ExternalLink, Shield, Terminal, Award, FileText, BookOpen, Users } from 'lucide-react';
-import { portfolioData } from '../data/portfolioData';
+import { portfolioData } from './data/portfolioData'; 
 
 const SecurityPortfolio = () => {
   const [darkMode, setDarkMode] = useState(true);
